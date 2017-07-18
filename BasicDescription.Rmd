@@ -14,3 +14,6 @@ Here's some stuff to start things off.
 Staged = git add on command line
 
 Let's edit this file
+
+Testing a change into your description!
+This is just plain TEXT!!!
